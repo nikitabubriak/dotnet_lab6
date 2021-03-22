@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookshelf>
+  <book>
+    <ID>1</ID>
+    <authorID>1</authorID>
+    <publisherID>1</publisherID>
+    <title>book1</title>
+    <datePublished>20/03/2021 00:00:00</datePublished>
+    <price>15</price>
+    <inventoryID>3</inventoryID>
+    <inventoryID>4</inventoryID>
+    <inventoryID>10</inventoryID>
+    <inventoryID>22</inventoryID>
+  </book>
+  <book>
+    <ID>2</ID>
+    <authorID>1</authorID>
+    <publisherID>2</publisherID>
+    <title>book2</title>
+    <datePublished>11/11/1111 00:00:00</datePublished>
+    <price>10</price>
+    <inventoryID>1</inventoryID>
+    <inventoryID>2</inventoryID>
+  </book>
+  <book>
+    <ID>3</ID>
+    <authorID>2</authorID>
+    <publisherID>1</publisherID>
+    <title>book3</title>
+    <datePublished>12/12/2222 00:00:00</datePublished>
+    <price>12</price>
+    <inventoryID>5</inventoryID>
+    <inventoryID>6</inventoryID>
+    <inventoryID>7</inventoryID>
+  </book>
+</bookshelf>

@@ -1,0 +1,13 @@
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+E:\KPI\NET\labs\dotnet_lab6\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+E:\KPI\NET\labs\dotnet_lab6\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
